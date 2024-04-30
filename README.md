@@ -1,4 +1,4 @@
-# React Nastive
+# React Native
 
 ## Create your app with Expo
 
@@ -37,3 +37,7 @@ const styles = StyleSheet.create({
 
 export default LotsOfStyles;
 ```
+
+### Native Components
+
+[React Native docs](https://reactnative.dev/docs/next/intro-react-native-components#native-components)
